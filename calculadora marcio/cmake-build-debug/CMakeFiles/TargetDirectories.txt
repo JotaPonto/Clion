@@ -1,0 +1,3 @@
+D:/Codigos/calculadora marcio/cmake-build-debug/CMakeFiles/untitled1.dir
+D:/Codigos/calculadora marcio/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codigos/calculadora marcio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
