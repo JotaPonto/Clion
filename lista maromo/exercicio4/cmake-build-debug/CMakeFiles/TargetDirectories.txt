@@ -1,0 +1,3 @@
+D:/Codigos/Clion/listas/exercicio4/cmake-build-debug/CMakeFiles/exemplo4.dir
+D:/Codigos/Clion/listas/exercicio4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codigos/Clion/listas/exercicio4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
